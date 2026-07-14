@@ -1,5 +1,6 @@
 # R-kasir
-POS kasir admin dan petgas kasir
+POS kasir admin dan petugas kasir
+
 Langkah-Langkah Pemasangan di Google Sheets & Google Apps Script:
 Buka halaman Google Sheets dan buat dokumen spreadsheet baru.
 
